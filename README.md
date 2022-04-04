@@ -30,4 +30,4 @@ Desafio QR Code Component - Frontend Mentor
 <h2>
 👀 Visualizar o Projeto
   </h2>
-<a href="https://mau-rocha.github.io/qrcodechallenge/">Testar o Projeto</a>
+<a href="https://mau-rocha.github.io/QR-Code-Component-Frontend-Mentor/">Testar o Projeto</a>
